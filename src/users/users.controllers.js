@@ -8,6 +8,7 @@ let usersDB = [
         age: 29,
     },
 ];
+let baseId = 1;
 
 const getAllUsers = async () => await usersDB
 
